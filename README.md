@@ -1,1 +1,1 @@
-https://aleksandrprime.github.io/weather-db/build
+https://aleksandrprime.github.io/build/
