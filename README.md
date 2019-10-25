@@ -1,1 +1,3 @@
-https://aleksandrprime.github.io/build/
+
+Link on GH PAGE:
+https://aleksandrprime.github.io/weather-db/build

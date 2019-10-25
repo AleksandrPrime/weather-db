@@ -16,7 +16,7 @@ ReactDOM.render(
     <Provider store={store}>
         <ErrorBoundry>
             <WeatherstoreServiceProvider value={weatherstoreService}>
-                <Router basename="build/">
+                <Router basename="weather-db/build">
                     <App/>
                 </Router>
             </WeatherstoreServiceProvider>
